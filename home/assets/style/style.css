@@ -11,15 +11,15 @@
 }
 
 #carousel-item-1{
-  background-image: url(/home/assets/bg-carousel/bg-1.jpg);
+  background-image: url(../bg-carousel/bg-1.jpg);
 }
 
 #carousel-item-2{
-  background-image: url(/home/assets/bg-carousel/bg-2.jpg);
+  background-image: url(../bg-carousel/bg-2.jpg);
 }
 
 #carousel-item-3{
-  background-image: url(/home/assets/bg-carousel/bg-3.jpg);
+  background-image: url(../bg-carousel/bg-2.jpg);
 }
 
 #carousel-item-1, #carousel-item-2, #carousel-item-3{
@@ -129,20 +129,20 @@
 }
 
 #card-beach{
-  background-image: url(/home/assets/cards-tours/praia.jpg);
+  background-image: url(../cards-tours/praia.jpg);
   background-size: cover;
   overflow: hidden;
   transition: .3s;
 }
 
 #card-city{
-  background-image: url(/home/assets/cards-tours/urbanos.jpg);
+  background-image: url(../cards-tours/urbanos.jpg);
   background-size: cover;
   transition: .3s;
 }
 
 #card-waterfall{
-  background-image: url(/home/assets/cards-tours/cachoeira.jpg);
+  background-image: url(../cards-tours/cachoeira.jpg);
   background-size: cover;
   transition: .3s;
 }
@@ -257,15 +257,15 @@ vertical-align: 0.125em !important;
 }
 
 #maragogi{
-  background-image: url(/home/assets/top-tours/maragogi.jpg);
+  background-image: url(../top-tours/maragogi.jpg);
 }
 
 #chapada{
-  background-image: url(/home/assets/top-tours/chapada-das-mesas.jpg);
+  background-image: url(../top-tours/chapada-das-mesas.jpg);
 }
 
 #gramado{
-  background-image: url(/home/assets/top-tours/gramado.jpg);
+  background-image: url(../top-tours/gramado.jpg);
 }
 
 .info-tour{

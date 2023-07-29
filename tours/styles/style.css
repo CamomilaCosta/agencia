@@ -60,15 +60,15 @@ main{
 }
 
 #maragogi{
-  background-image: url(/home/assets/top-tours/maragogi.jpg);
+  background-image: url(../../home/assets/top-tours/maragogi.jpg);
 }
 
 #chapada{
-  background-image: url(/home/assets/top-tours/chapada-das-mesas.jpg);
+  background-image: url(../../home/assets/top-tours/chapada-das-mesas.jpg);
 }
 
 #gramado{
-  background-image: url(/home/assets/top-tours/gramado.jpg);
+  background-image: url(../../home/assets/top-tours/gramado.jpg);
 }
 
 .info-tour{

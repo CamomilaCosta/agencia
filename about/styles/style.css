@@ -43,7 +43,7 @@ main{
 
 /**Banner**/
 #banner{
-  background-image: url(/about/img/banner/travel.jpg);
+  background-image: url(../img/banner/travel.jpg);
   background-size: cover;
   background-position: 50% 40%;
 
@@ -139,7 +139,7 @@ main{
 .history .img-history{
   height: 350px;
 
-  background-image: url(/about/img/history/map.jpg);
+  background-image: url(../img/history/map.jpg);
   background-size: cover;
 }
 
